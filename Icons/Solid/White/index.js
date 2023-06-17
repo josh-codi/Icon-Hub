@@ -6,19 +6,19 @@ import archive from './archive.png'
 import arrowCircleDown from './arrow-circle-down.png'
 import arrowCircleleft from './arrow-circle-left.png'
 import arrowCircleright from './arrow-circle-right.png'
-import arrowCircletop from './arrow-circle-top.png'
+import arrowCircleup from './arrow-circle-up.png'
 
 import arrowdown from './arrow-down.png'
 import arrowleft from './arrow-left.png'
 import arrowright from './arrow-right.png'
-import arrowtop from './arrow-top.png'
+import arrowup from './arrow-up.png'
 
 import arrownarrowdown from './arrow-narrow-down.png'
 import arrownarrowright from './arrow-narrow-right.png'
 import arrownarrowleft from './arrow-narrow-left.png'
-import arrownarrowtop from './arrow-narrow-top.png'
+import arrownarrowup from './arrow-narrow-up.png'
 
-import arrowexpand from './arrow-expand.png'
+import arrowexpand from './arrows-expand.png'
 
 import at from './at-symbol.png'
 
@@ -32,7 +32,7 @@ import bookmark from './bookmark.png'
 import bookmarkalt from './bookmark-alt.png'
 import briefcase from './briefcase.png'
 
-import cake from 'cake.png'
+import cake from './cake.png'
 import calculator from './calculator.png'
 import calendar from './calendar.png'
 import camera from './camera.png'
@@ -50,9 +50,9 @@ import check from './check.png'
 
 import chevrondoubledown from './chevron-double-down.png'
 import chevrondoubleright from './chevron-double-right.png'
-import chevrondoubletop from './chevron-double-top.png'
+import chevrondoubleup from './chevron-double-up.png'
 import chevrondoubleleft from './chevron-double-left.png'
-import chevrontop from './chevron-top.png'
+import chevronup from './chevron-up.png'
 import chevronleft from './chevron-left.png'
 import chevronright from './chevron-right.png'
 import chevrondown from './chevron-down.png'
@@ -85,7 +85,7 @@ import currencyyen from './currency-yen.png'
 import cursorclick from './cursor-click.png'
 
 import database from './database.png'
-import desktopcomputer from './desktop-compute.png'
+import deskupcomputer from './desktop-computer.png'
 import devicemobile from './device-mobile.png'
 import devicetablet from './device-tablet.png'
 
@@ -115,7 +115,6 @@ import eye from './eye.png'
 import fastforward from './fast-forward.png'
 import film from './film.png'
 import filter from './filter.png'
-import fingeradd from './finger-add.png'
 import fingerprint from './finger-print.png'
 import fire from './fire.png'
 import flag from './flag.png'
@@ -138,7 +137,7 @@ import informationcircle from './information-circle.png'
 import key from './key.png'
 import library from './library.png'
 import lightbulb from './light-bulb.png'
-import lightingbolt from './lighting-bolt.png'
+import lightingbolt from './lightning-bolt.png'
 import link from './link.png'
 import locationmarker from './location-marker.png'
 import lockclosed from './lock-closed.png'
@@ -166,7 +165,7 @@ import pause from './pause.png'
 import pencil from './pencil.png'
 import pencilalt from './pencil-alt.png'
 import phoneincoming from './phone-incoming.png'
-import phonemissing from './phone-missing-call.png'
+import phonemissing from './phone-missed-call.png'
 import phoneoutgoing from './phone-outgoing.png'
 import phone from './phone.png'
 import photograph from './photograph.png'
@@ -192,7 +191,7 @@ import searchcircle from './search-circle.png'
 import search from './search.png'
 import selector from './selector.png'
 import share from './share.png'
-import shieldexclamation from './shield-exlamation.png'
+import shieldexclamation from './shield-exclamation.png'
 import shoppingcart from './shopping-cart.png'
 import shieldcheck from './shield-check.png'
 import shoppingbag from './shopping-bag.png'
@@ -200,11 +199,10 @@ import server from './server.png'
 import sortascending from './sort-ascending.png'
 import sortdescending from './sort-descending.png'
 import sparkles from './sparkles.png'
-import speakerphone from './speader-phone.png'
+import speakerphone from './speakerphone.png'
 import star from './star.png'
 import statusoffline from './status-offline.png'
 import statusonline from './status-online.png'
-import stop from './stop.png'
 import sun from './sun.png'
 import support from './support.png'
 import switchhorizontal from './switch-horizontal.png'
@@ -245,20 +243,20 @@ import zoomout from './zoom-out.png'
 
 export {
     academicCap, adjustments, annotation, archive, arrowCircleDown, arrowCircleleft, arrowCircleright,
-    arrowCircletop, arrowdown, arrowleft, arrowright, arrowtop, arrownarrowdown,
-    arrownarrowleft, arrownarrowright, arrownarrowtop, arrowexpand, at, backspace, badgeCheck, ban, beaker, bell, bookopen, bookmark, bookmarkalt, briefcase,
+    arrowCircleup, arrowdown, arrowleft, arrowright, arrowup, arrownarrowdown,
+    arrownarrowleft, arrownarrowright, arrownarrowup, arrowexpand, at, backspace, badgeCheck, ban, beaker, bell, bookopen, bookmark, bookmarkalt, briefcase,
     cake, calculator, calendar, camera, cash, chartbar, chartpie, chartsquarebar, 
     chatalt1, chatalt2, chat, check, checkcircle, chevrondoubledown, chevrondoubleleft,
-    chevrondoubleright, chevrondoubletop, chevrontop, chevronleft, chevronright,
+    chevrondoubleright, chevrondoubleup, chevronup, chevronleft, chevronright,
     chevrondown, chip, clipboard, clipboardcheck, clipboardcopy, clipboardlist,
     cloudupload, clock, clouddownload, cloud, code, cog, collection, colorswatch, 
     creditcard, cubetransparent, cube, currencybangladeshi, currencydollar, currencyeuro, currencypound, currencyrupee,currencyyen,
     cursorclick, 
-    database, desktopcomputer, devicemobile, devicetablet, document, documentadd, 
+    database, deskupcomputer, devicemobile, devicetablet, document, documentadd, 
     documentdownload, documentduplicate, documentremove, documentreport, documentsearch, documenttext,
     dotscirclehorizontal, dotshorizontal, dotsvertical, download, duplicate,
     emojihappy, emojisad, exclamationcircle, exclamation, externallink, eyeoff, eye,
-    fastforward, film, filter, fingeradd, fingerprint, fire, flag, folderdownload, folderadd,
+    fastforward, film, filter, fingerprint, fire, flag, folderdownload, folderadd,
     folderopen, folderremove, folder, gift, globealt, globe, hand, hashtag, heart,
     home,identification,inboxin,inbox,informationcircle,key,library,lightbulb,lightingbolt,link,
     locationmarker,lockclosed,lockopen,login,logout,mailopen,mail,menualt1,menualt2,
@@ -268,7 +266,7 @@ export {
     play,plus,presentationchartbar,presentationchartline,printer,puzzle,qrcode,questionmarkcircle,
     receiptrefund,receipttax,refresh,reply,rewind,rss,save,scale,saveas,scissors,searchcircle,
     search,selector,share,shieldexclamation,shoppingcart,shieldcheck,shoppingbag,server,sortascending,
-    sortdescending,sparkles,speakerphone,star,statusoffline,statusonline,stop,sun,support,switchhorizontal,
+    sortdescending,sparkles,speakerphone,star,statusoffline,statusonline,sun,support,switchhorizontal,
     switchvertical,table,tag,template,terminal,thumbdown,thumbup,ticket,translate,trash,
     trendingdown,trendingup,truck,upload,useradd,usercircle,usergroup,userremove,user,users,variable,
     videocamera,viewboards,viewgrid,viewlist,volumeoff,volumeup,wifi,xcircle,x,zoomin,zoomout
